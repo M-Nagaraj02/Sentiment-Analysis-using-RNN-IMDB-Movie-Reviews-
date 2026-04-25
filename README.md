@@ -92,6 +92,4 @@ The model consists of:
 
 https://github.com/M-Nagaraj02
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/M-Nagaraj02/<your-repo-name>.git
+---
